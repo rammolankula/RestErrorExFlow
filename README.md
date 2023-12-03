@@ -1,13 +1,13 @@
 # RestErrorExFlow
 Rest error exception flow
 <pre>
-&#8592; Exception Handling in Spring Boot ReST
-&#8592; Default Error Message (Boot ReST) + @ResponseStatus
-&#8592; Customized Error Message - @ControllerAdvice, @ExceptionHandler
-&#8592; Default Error Message (Boot ReST) + @ResponseStatus
-&#8592; In this case we are using default message given by BasicErrorController#error
-&#8592;   (ResponseEntity(T) type--> JSON) format.
-&#8592; Here, we can customize only Status and message
+&#8594; Exception Handling in Spring Boot ReST
+&#8594; Default Error Message (Boot ReST) + @ResponseStatus
+&#8594; Customized Error Message - @ControllerAdvice, @ExceptionHandler
+&#8594; Default Error Message (Boot ReST) + @ResponseStatus
+&#8594; In this case we are using default message given by BasicErrorController#error
+&#8594;   (ResponseEntity(T) type--> JSON) format.
+&#8594; Here, we can customize only Status and message
 </pre>
 
 <pre>
